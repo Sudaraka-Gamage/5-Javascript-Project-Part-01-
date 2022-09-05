@@ -12,6 +12,9 @@
 ![Screenshot (1939)](https://user-images.githubusercontent.com/86683029/188328153-4ea3f2e6-7881-4cce-9387-f5fdfd908457.png)
 
 # custom-range-slider
+![Screenshot (1940)](https://user-images.githubusercontent.com/86683029/188451578-2f8370e8-15b7-479a-8174-7f6f62730427.png)
+![Screenshot (1941)](https://user-images.githubusercontent.com/86683029/188451598-09f80830-493b-4a30-8b7f-d5c5ed0839f5.png)
 
 # double-heart-click
-
+![Screenshot (1943)](https://user-images.githubusercontent.com/86683029/188451630-2f1d9541-66fc-49f7-91c5-9c1eac94aeae.png)
+![Screenshot (1942)](https://user-images.githubusercontent.com/86683029/188451622-9fb023a8-e12e-4fd0-8ce3-aa5fd93b19b6.png)
